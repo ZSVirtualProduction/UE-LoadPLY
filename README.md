@@ -1,11 +1,3 @@
-<!-- markdownlint-disable MD033 -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-5.6-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine 5.6">
-  <img src="https://img.shields.io/badge/C%2B%2B-97%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License">
-  <img src="https://img.shields.io/github/stars/Cluaccino/UE-LoadPLY?style=for-the-badge" alt="Stars">
-</p>
-
 # 📦 UE-LoadPLY
 
 **UE-LoadPLY** 是一个为 **Unreal Engine 5.6** 设计的轻量级插件，用于加载 **PLY（Polygon File Format）** 点云与高斯 3D 资产文件。
