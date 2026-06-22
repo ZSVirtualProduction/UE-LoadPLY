@@ -7,7 +7,6 @@ LoadPLY
 
 运行
 git clone https://github.com/Cluaccino/LoadPLY.git
-cd LoadPLY
 
 分支说明
 main：主分支（同步最新稳定代码）
