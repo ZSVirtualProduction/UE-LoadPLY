@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\ueproject\\ue56\\readply\\plugins\\loadplyplugin\\source\\loadplyplugin\\private\\loadplyplugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\ueproject\\ue56\\readply\\intermediate\\build\\win64\\x64\\readplyeditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\ueproject\\ue56\\readply\\plugins\\loadplyplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\loadplyplugin\\definitions.loadplyplugin.h",
+            "g:\\ueproject\\ue56\\readply\\plugins\\loadplyplugin\\source\\loadplyplugin\\public\\loadplyplugin.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

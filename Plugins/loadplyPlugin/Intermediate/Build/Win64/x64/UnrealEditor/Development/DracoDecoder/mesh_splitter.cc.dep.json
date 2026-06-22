@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "i:\\myproject\\ue\\ue56\\readply1\\plugins\\loadplyplugin\\source\\dracodecoder\\private\\draco\\mesh\\mesh_splitter.cc",
+        "ProvidedModule": "",
+        "PCH": "i:\\myproject\\ue\\ue56\\readply1\\intermediate\\build\\win64\\x64\\readplyeditor\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "i:\\myproject\\ue\\ue56\\readply1\\plugins\\loadplyplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dracodecoder\\definitions.dracodecoder.h",
+            "i:\\myproject\\ue\\ue56\\readply1\\plugins\\loadplyplugin\\source\\dracodecoder\\private\\draco\\mesh\\mesh_splitter.h",
+            "d:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\memory",
+            "d:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\vector",
+            "d:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\__msvc_bit_utils.hpp",
+            "d:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\__msvc_sanitizer_annotate_container.hpp",
+            "d:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\xpolymorphic_allocator.h",
+            "i:\\myproject\\ue\\ue56\\readply1\\plugins\\loadplyplugin\\source\\dracodecoder\\private\\draco\\draco_features.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

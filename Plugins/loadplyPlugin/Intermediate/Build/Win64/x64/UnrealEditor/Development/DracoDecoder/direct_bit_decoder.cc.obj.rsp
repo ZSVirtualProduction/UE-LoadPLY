@@ -1,0 +1,59 @@
+"I:/myproject/UE/ue56/readply1/Plugins/loadplyPlugin/Source/DracoDecoder/Private/draco/compression/bit_coders/direct_bit_decoder.cc"
+@"I:/myproject/UE/ue56/readply1/Plugins/loadplyPlugin/Intermediate/Build/Win64/x64/UnrealEditor/Development/DracoDecoder/DracoDecoder.Shared.rsp"
+/external:W0
+/external:I "D:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/INCLUDE"
+/external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/ucrt"
+/external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/shared"
+/external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/um"
+/external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/winrt"
+/FI"I:/myproject/UE/ue56/readply1/Intermediate/Build/Win64/x64/readplyEditor/Development/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"I:/myproject/UE/ue56/readply1/Plugins/loadplyPlugin/Intermediate/Build/Win64/x64/UnrealEditor/Development/DracoDecoder/Definitions.DracoDecoder.h"
+/Yu"I:/myproject/UE/ue56/readply1/Intermediate/Build/Win64/x64/readplyEditor/Development/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"I:/myproject/UE/ue56/readply1/Intermediate/Build/Win64/x64/readplyEditor/Development/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"I:/myproject/UE/ue56/readply1/Plugins/loadplyPlugin/Intermediate/Build/Win64/x64/UnrealEditor/Development/DracoDecoder/direct_bit_decoder.cc.obj"
+/experimental:log "I:/myproject/UE/ue56/readply1/Plugins/loadplyPlugin/Intermediate/Build/Win64/x64/UnrealEditor/Development/DracoDecoder/direct_bit_decoder.cc.sarif"
+/sourceDependencies "I:/myproject/UE/ue56/readply1/Plugins/loadplyPlugin/Intermediate/Build/Win64/x64/UnrealEditor/Development/DracoDecoder/direct_bit_decoder.cc.dep.json"
+/d2ssa-cfg-question-
+/Zc:inline
+/nologo
+/Oi
+/FC
+/diagnostics:caret
+/c
+/Gw
+/Gy
+/utf-8
+/wd4819
+/DSAL_NO_ATTRIBUTE_DECLARATIONS=1
+/permissive-
+/Zc:strictStrings-
+/Zc:__cplusplus
+/D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
+/D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1
+/D_WINDLL
+/D_DISABLE_EXTENDED_ALIGNED_STORAGE
+/Ob2
+/d2ExtendedWarningInfo
+/Ox
+/Ot
+/GF
+/errorReport:prompt
+/EHsc
+/DPLATFORM_EXCEPTIONS_DISABLED=0
+/Z7
+/MD
+/bigobj
+/fp:fast
+/Zo
+/Zp8
+/W4
+/wd4456
+/wd4458
+/wd4459
+/wd4244
+/wd4838
+/TP
+/GR-
+/std:c++20
+/Zc:preprocessor
+/wd5054

@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DracoDecoder.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"DracoDecoderWrapper.cpp.obj"
+		]
+	}
+}

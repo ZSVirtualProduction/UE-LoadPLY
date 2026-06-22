@@ -1,0 +1,8 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"DracoDecoder": "UnrealEditor-DracoDecoder.dll",
+		"loadplyPlugin": "UnrealEditor-loadplyPlugin.dll"
+	}
+}

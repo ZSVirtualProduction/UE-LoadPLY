@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "i:\\myproject\\ue\\ue56\\readply1\\plugins\\loadplyplugin\\source\\dracodecoder\\private\\draco\\compression\\draco_compression_options.cc",
+        "ProvidedModule": "",
+        "PCH": "i:\\myproject\\ue\\ue56\\readply1\\intermediate\\build\\win64\\x64\\readplyeditor\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "i:\\myproject\\ue\\ue56\\readply1\\plugins\\loadplyplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dracodecoder\\definitions.dracodecoder.h",
+            "i:\\myproject\\ue\\ue56\\readply1\\plugins\\loadplyplugin\\source\\dracodecoder\\private\\draco\\compression\\draco_compression_options.h",
+            "i:\\myproject\\ue\\ue56\\readply1\\plugins\\loadplyplugin\\source\\dracodecoder\\private\\draco\\draco_features.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

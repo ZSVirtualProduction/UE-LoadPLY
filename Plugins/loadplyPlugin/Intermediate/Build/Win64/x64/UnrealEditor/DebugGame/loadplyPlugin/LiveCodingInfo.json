@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.loadplyPlugin.cpp.obj": [
+			"loadplyPlugin.init.gen.cpp.obj",
+			"loadplyPluginBPLibrary.gen.cpp.obj",
+			"LumaFieldmy.gen.cpp.obj",
+			"LumaScenemy.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"loadplyPlugin.cpp.obj",
+			"loadplyPluginBPLibrary.cpp.obj",
+			"LumaFieldmy.cpp.obj",
+			"LumaScenemy.cpp.obj",
+			"PlyGaussianReader.cpp.obj"
+		]
+	}
+}

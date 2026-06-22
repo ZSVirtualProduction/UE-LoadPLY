@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.loadplyPlugin.cpp.obj": [
+			"AsyncLoadActions.gen.cpp.obj",
+			"CulFieldmy.gen.cpp.obj",
+			"CulScenemy.gen.cpp.obj",
+			"loadplyPlugin.init.gen.cpp.obj",
+			"loadplyPluginBPLibrary.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"AsyncLoadActions.cpp.obj",
+			"CulFieldmy.cpp.obj",
+			"CulScenemy.cpp.obj",
+			"loadplyPlugin.cpp.obj",
+			"loadplyPluginBPLibrary.cpp.obj",
+			"PlyGaussianReader.cpp.obj"
+		]
+	}
+}
